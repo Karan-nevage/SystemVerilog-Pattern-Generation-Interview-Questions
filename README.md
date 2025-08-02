@@ -23,11 +23,11 @@ This repository contains solved SystemVerilog pattern generation problems common
 6. Click **Run** to execute and view the output in the console.
 
 ### Using Local Tools
-1. Copy the solution code from `solutions/Solution_Set-XX/que_XX.sv` (e.g., `solutions/Solution_Set-01/que_01.sv`).
+1. Copy the solution code from `solutions/Solution_Set-XX/que_XX.sv` (e.g., `solutions/Solution_Set-02/que_03.sv`).
 2. Copy `testbench.sv` from the repository root.
-3. Modify `testbench.sv` to include the desired question (e.g., `` `include "Solution_Set-01/que_01.sv" ``).
+3. Modify `testbench.sv` to include the desired question (e.g., `` `include "Solution_Set-02/que_03.sv" ``).
 4. Compile and run using a SystemVerilog simulator (e.g., QuestaSim, VCS) in your local environment.
-5. Check the console for the output (e.g., pattern `0 1 0 2 0 3 0 4 0 5` for Set 1, Question 1).
+5. Check the console for the output.
 
 ## Contributing
 Contributions are welcome! Follow these steps:
