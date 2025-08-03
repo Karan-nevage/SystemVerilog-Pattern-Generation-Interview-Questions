@@ -37,6 +37,20 @@ Contributions are welcome! Follow these steps:
 4. Update `testbench.sv` comments with new question references.
 5. Submit a pull request with a clear description of your additions.
 
+# 🧠 Question Set-01: Combination of 0 and 1 Pattern Questions
+
+| Question No. | Pattern Description                          |
+|--------------|----------------------------------------------|
+| 1            | Generate the pattern `0 1 0 2 0 3 0 4 0 5`    |
+| 2            | Generate the pattern `{010011000111}`         |
+| 3            | Generate the pattern `{110011001100}`         |
+| 4            | Generate the pattern `{111000111000}`         |
+| 5            | Generate the pattern `{01010101}`             |
+| 6            | Generate the pattern `{001100110011}`         |
+| 7            | Generate the pattern `{000111000111}`         |
+
+---
+
 ## Author
 - **Name**: Karankumar Nevage
 - **LinkedIn**: [https://www.linkedin.com/in/karankumar-nevage/](https://www.linkedin.com/in/karankumar-nevage/)
