@@ -1,4 +1,4 @@
-// Question Set-01, Question 2: Generate the pattern {010011000111} using SystemVerilog constraints
+// Question Set-01, Question 2: Generate the pattern {010011000111} using SystemVerilog constraints.
 //===========================================================================================================
 class pattern_gen;
   rand bit pattern[12]; // Array to store the pattern
